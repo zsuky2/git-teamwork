@@ -1,7 +1,7 @@
 let imgs = ["image1.jpg", "image2.jpg", "image3.jpg"];
 let old_img = -1;
 
-setTimeout(ChangeImg, 3000);
+setTimeout(ChangeImg, 2000);
 
 function ChangeImg() {
     do {
